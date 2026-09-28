@@ -1,0 +1,16 @@
+{
+    "BBDD": {
+        "servidor": "Nombre o IP",
+        "puerto": 1433,
+        "database": "BBDD ej.master",
+        "usuario": "User BBDD ej:sa",
+        "password": "PASS BBDD",
+        "driver": "ODBC Driver 18 for SQL Server",
+        "encrypt": "yes",
+        "trust_server_certificate": true,
+        "pool_size": 5,
+        "retry": 1,
+        "autocommit": true,
+        "dictionary": true
+    }
+}
